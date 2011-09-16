@@ -20,7 +20,7 @@
         theme-roller
 
         senny-textmate
-        senny-ido-hacks
+        ;;senny-ido-hacks
         senny-yasnippet
         senny-auto-complete
         senny-magit
@@ -28,7 +28,7 @@
         senny-rspec-mode
         senny-perspective
         senny-mode-compile
-        senny-ibuffer
+        ;;senny-ibuffer
         senny-browse-kill-ring
         senny-browse-kill-ring-plus
         senny-better-registers

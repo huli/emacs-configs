@@ -37,5 +37,5 @@
 
 ;; theme-roller.el setup
 ;;(vendor 'theme-roller)
-;;(setq theme-roller-active-themes '(color-theme-lazy color-theme-monokai))
+(setq theme-roller-active-themes '(color-theme-ruby-blue))
 ;;(theme-roller-activate)
